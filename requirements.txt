@@ -1,7 +1,7 @@
-pip
-numpy
-streamlit
-os
+pip==22.2 
+numpy==1.22.0
+streamlit==0.64.0
 Pillow==9.0.1
-tensorflow
-cv2
+Keras==2.3.1
+tensorflow==2.0.0
+opencv-python==4.2.0.34
