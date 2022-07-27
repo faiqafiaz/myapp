@@ -1,5 +1,7 @@
+pip
 numpy
 streamlit
 os
 Pillow==9.0.1
 tensorflow
+cv2
