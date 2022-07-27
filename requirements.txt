@@ -1,7 +1,7 @@
 pip==22.2 
-numpy==1.22.0
+numpy~=1.19.2
 streamlit
 Pillow==9.0.1
-Keras==2.3.1
+Keras<=2.7
 tensorflow
 opencv-python
