@@ -1,6 +1,6 @@
 pip==22.2 
 numpy==1.22.0
-streamlit==0.64.0
+streamlit
 Pillow==9.0.1
 Keras==2.3.1
 tensorflow==2.0.0
