@@ -3,8 +3,9 @@ import os
 import numpy as np 
 from PIL import Image , ImageOps
 import streamlit as st
-from tensorflow.keras.models import load_model
 import tensorflow as tf
+from tensorflow.keras.models import load_model
+
 
 class_name = ["airplane", "automobile" , "bird" , "cat" , "deer" , "dog" , "frog" , "horse" , "ship" , "truck"]
 
