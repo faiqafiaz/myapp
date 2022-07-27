@@ -1,6 +1,4 @@
 # import the Package
-!pip install cv2
-!pip install tensorflow
 import cv2
 import os
 import numpy as np 
